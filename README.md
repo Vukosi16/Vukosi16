@@ -3,7 +3,7 @@ Yo, It's Vukosi.
 Or incase any employers looking at this "Salutations tis Vukosi Blessing Mohlabini III" <br>
 I started my journy in programming in 2022 and have been punishing my keyboard ever since. Honestly tech is just my passion, I love everything tech related,
 whether it's networking, artificial intelligence or software. <br>
-Have fun looking through my projects from my early days (when I still had to google search how to center a div everyday) to know, when i still have to sometimes
+Have fun looking through my projects from my early days (when I still had to google search how to center a div everyday) to now, when I still have to sometimes
 search how to center a div but a bit more capable. <br>
 If you tryna fork anything or just give constructive critisism on my code hit me up.<br>
 067 257 5232
