@@ -1,4 +1,5 @@
-Yo, It's Vukosi.    		
+Yo, It's Vukosi.  
+<br>
 Or incase any employers looking at this "Salutations tis Vukosi Blessing Mohlabini III"
 I started my journy in programming in 2022 and have been punishing my keyboard ever since. Honestly tech is just my passion, I love everything tech related,
 whether it's networking, artificial intelligence or software. 
