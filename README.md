@@ -1,15 +1,7 @@
-Yo, It's Vukosi.  
-<br>
-Or incase any employers looking at this "Salutations tis Vukosi Blessing Mohlabini III" <br>
-I started my journy in programming in 2022 and have been punishing my keyboard ever since. Honestly tech is just my passion, I love everything tech related,
-whether it's networking, artificial intelligence or software. <br>
-Have fun looking through my projects from my early days (when I still had to google search how to center a div everyday) to now, when I still have to sometimes
-search how to center a div but a bit more capable. <br>
-If you tryna fork anything or just give constructive critisism on my code hit me up.<br>
-067 257 5232
-or vukosimohlabini16@gmail.com
+Hello, I'm Vukosi Blessing Mohlabini.
 
-<!---
-Vukosi16/Vukosi16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I began my programming journey in 2022 and have been immersed in tech ever since. I'm deeply passionate about all things technology—whether it's software development, networking, or artificial intelligence. This portfolio showcases some of the projects I've built, starting from my early days (when centering a <div> felt like rocket science) to more recent work as I've grown more confident and capable.
+
+Feel free to explore, fork any projects, or reach out with feedback or collaboration ideas.
+📞 067 257 5232
+📧 vukosimohlabini16@gmail.com
